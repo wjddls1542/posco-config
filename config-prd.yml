@@ -8,3 +8,8 @@ psoco:
       url: jdbc:mysql://?.?.?.?:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
       username: posword
       password: 1234
+test:
+   datasource:
+      url: jdbc:mysql://?.?.?.?:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
+      username: posword
+      password: 1234
