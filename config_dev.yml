@@ -4,3 +4,8 @@ jwt:
 psoco:
    name: 3기기여미
    count: 200
+test:
+   datasource:
+   uri: jdbc:.mysql://?.?.?.?:3306/test?user
+   usernam: posworld
+   pssword: 1234
