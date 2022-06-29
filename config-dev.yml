@@ -1,0 +1,6 @@
+jwt:
+   time: 90000
+   ret: hello-world1234
+psoco:
+   name: 3기기여미
+   count: 200
