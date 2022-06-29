@@ -1,11 +1,17 @@
 jwt:
-   time: 90000
-   ret: hello-world1234
-psoco:
-   name: 3기기여미
-   count: 200
+   time: 900000
+   secret: hello-world4444
+posco:
+   name: 3기 기여미
+   count: 20
+   datasource:
+      url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&amp
+      characterEncoding: UTF-8
+      username: root
+      password: 1234
 spring:
    datasource:
-      url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
+      url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&amp
+      characterEncoding: UTF-8
       username: root
       password: '{cipher}e0830fcec63ef5a5a5fe7201c4d8ab8298e6f9d3a17f97ae0d58e34250477b56'
