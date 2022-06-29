@@ -7,5 +7,5 @@ psoco:
 test:
    datasource:
    uri: jdbc:.mysql://?.?.?.?:3306/test?user
-   usernam: posworld
+   usernam: root
    pssword: 1234
