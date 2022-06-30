@@ -14,5 +14,5 @@ spring:
       password: '{cipher}e0830fcec63ef5a5a5fe7201c4d8ab8298e6f9d3a17f97ae0d58e34250477b56'
 
 jwt:
-   secret_key: hello-world4444ggdfdfdfdfdfdfdfdfefefdfdfefe
-   expTime: 86400000
+   secret_key: SECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEY
+   expTime: 3600000
