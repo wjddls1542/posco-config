@@ -1,6 +1,3 @@
-jwt:
-   time: 900000
-   secret: hello-world4444
 posco:
    name: 3기 기여미
    count: 20
@@ -15,3 +12,7 @@ spring:
       characterEncoding: UTF-8
       username: root
       password: '{cipher}e0830fcec63ef5a5a5fe7201c4d8ab8298e6f9d3a17f97ae0d58e34250477b56'
+
+jwt:
+   secret_key: hello-world4444ggdfdfdfdfdfdfdfdfefefdfdfefe
+   expTime: 86400000
